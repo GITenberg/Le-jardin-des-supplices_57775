@@ -1,0 +1,25 @@
+_repo: Le-jardin-des-supplices_57775
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mirbeau, Octave
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '6950'
+    url: http://www.gutenberg.org/2009/agents/6950
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2018-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57775'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le jardin des supplices
+url: http://www.gutenberg.org/ebooks/57775
