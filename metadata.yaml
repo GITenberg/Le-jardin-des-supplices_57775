@@ -1,5 +1,8 @@
 _repo: Le-jardin-des-supplices_57775
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57775-h/images/cover.jpg
 creator:
   author:
     agent_name: Mirbeau, Octave
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '6950'
     url: http://www.gutenberg.org/2009/agents/6950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57775#Le-jardin-des-supplices
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
